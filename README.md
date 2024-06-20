@@ -2,5 +2,5 @@
 # Installation
 
 ```R
-devtools::install_github("ZebinYang/UniDOE")
+devtools::install_github("Sheeshpanda/UniDOE-M")
 ```
